@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Trip to London",
+    "content": "This trip to London includes visits to famous landmarks like Big Ben, the London Eye, and the Tower of London. You will stay in a 5-star hotel and enjoy an amazing view of the River Thames.",
+    "cost": 2500,
+    "best_time_to_visit": "March to May or September to November.",
+    "activities": "Visit the British Museum, enjoy Hyde Park, and explore the West End theaters."
+  },
+  {
+    "title": "Trip to Bali",
+    "content": "This Bali trip includes serene beaches, luxury resorts, and cultural excursions to Uluwatu and Tanah Lot temples. You'll also experience local Balinese cuisine.",
+    "cost": 1500,
+    "best_time_to_visit": "April to October (Dry Season).",
+    "activities": "Surf at Kuta Beach, visit the rice terraces, and explore Ubud’s temples."
+  },
+  {
+    "title": "Trip to New York",
+    "content": "On this trip to New York, you will visit Times Square, Central Park, and the Statue of Liberty. Enjoy a Broadway show and shopping at famous locations.",
+    "cost": 3000,
+    "best_time_to_visit": "April to June and September to early November.",
+    "activities": "Visit the MET, stroll through Central Park, and take a ferry to the Statue of Liberty."
+  },
+  {
+    "title": "Trip to Paris",
+    "content": "This trip to Paris includes visits to the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. You will also enjoy a scenic boat ride along the Seine River and explore the charming Montmartre neighborhood.",
+    "cost": 2200,
+    "best_time_to_visit": "June to August and September to October.",
+    "activities": "Cruise along the Seine, visit Musée d'Orsay, and take a day trip to Versailles."
+  },
+  {
+    "title": "Trip to Tokyo",
+    "content": "This trip to Tokyo takes you to iconic locations like the Tokyo Skytree, Shibuya Crossing, and the historic Senso-ji Temple. Experience Japanese cuisine, visit Akihabara for anime culture, and explore the bustling streets of Shinjuku.",
+    "cost": 3500,
+    "best_time_to_visit": "March to May and September to November.",
+    "activities": "Visit the Meiji Shrine, shop in Ginza, and explore Tokyo Disneyland."
+  },
+  {
+    "title": "Trip to Sydney",
+    "content": "On this trip to Sydney, you'll visit the famous Sydney Opera House, take a stroll along Bondi Beach, and climb the Sydney Harbour Bridge. Discover the Royal Botanic Garden and take a ferry ride to Manly Beach.",
+    "cost": 2800,
+    "best_time_to_visit": "September to November and March to May.",
+    "activities": "Climb the Sydney Harbour Bridge, explore Taronga Zoo, and take a cruise in Sydney Harbour."
+  },
+  {
+    "title": "Trip to Dubai",
+    "content": "This trip to Dubai offers a visit to the Burj Khalifa, the world’s tallest building, and a shopping spree at the Dubai Mall. You will also enjoy a desert safari, explore the Palm Jumeirah, and relax at Jumeirah Beach.",
+    "cost": 3200,
+    "best_time_to_visit": "November to March.",
+    "activities": "Enjoy a desert safari, visit Dubai Marina, and explore the Gold Souk."
+  },
+  {
+    "title": "Trip to Rome",
+    "content": "Explore ancient history on this trip to Rome by visiting the Colosseum, the Roman Forum, and the Pantheon. You will also visit Vatican City, home to St. Peter’s Basilica and the Sistine Chapel, and savor authentic Italian cuisine.",
+    "cost": 2500,
+    "best_time_to_visit": "April to June and September to October.",
+    "activities": "Visit the Vatican Museums, explore the Roman Forum, and enjoy a stroll through Trastevere."
+  },
+  {
+    "title": "Trip to Barcelona",
+    "content": "This trip to Barcelona includes a tour of Gaudi's Sagrada Familia, a walk down Las Ramblas, and a visit to Park Güell. You'll also explore the Gothic Quarter and relax on the beaches of Barceloneta.",
+    "cost": 2300,
+    "best_time_to_visit": "May to June and September to October.",
+    "activities": "Visit Casa Batlló, enjoy the Magic Fountain show, and walk through the Gothic Quarter."
+  },
+  {
+    "title": "Trip to San Francisco",
+    "content": "On this trip to San Francisco, visit the Golden Gate Bridge, take a ride on a historic cable car, and explore Fisherman’s Wharf. You will also visit Alcatraz Island, tour Chinatown, and enjoy a day trip to Napa Valley.",
+    "cost": 2700,
+    "best_time_to_visit": "September to November and March to May.",
+    "activities": "Walk along Golden Gate Park, visit Alcatraz, and tour Muir Woods."
+  },
+  {
+    "title": "Trip to Rio de Janeiro",
+    "content": "This trip to Rio de Janeiro takes you to the iconic Christ the Redeemer statue, Sugarloaf Mountain, and the famous Copacabana and Ipanema beaches. Enjoy vibrant nightlife, samba music, and the excitement of Carnival.",
+    "cost": 2400,
+    "best_time_to_visit": "December to March.",
+    "activities": "Explore Tijuca National Park, take a cable car to Sugarloaf Mountain, and experience Carnival."
+  },
+  {
+    "title": "Trip to Istanbul",
+    "content": "Explore the unique blend of East and West in Istanbul. Visit the Blue Mosque, Hagia Sophia, and the Topkapi Palace. Enjoy a cruise along the Bosphorus and immerse yourself in the bustling Grand Bazaar.",
+    "cost": 2100,
+    "best_time_to_visit": "April to May and September to November.",
+    "activities": "Cruise along the Bosphorus, visit the Grand Bazaar, and explore the Basilica Cistern."
+  },
+  {
+    "title": "Trip to Cairo",
+    "content": "On this trip to Cairo, visit the Pyramids of Giza, the Sphinx, and the Egyptian Museum. Explore the bustling Khan el-Khalili bazaar and take a boat trip on the Nile to experience Egypt's rich cultural history.",
+    "cost": 2000,
+    "best_time_to_visit": "October to April.",
+    "activities": "Visit the Pyramids of Giza, explore the Egyptian Museum, and enjoy a cruise on the Nile."
+  },
+  {
+    "title": "Trip to Marrakech",
+    "content": "Explore the colorful souks of Marrakech, visit the Koutoubia Mosque, and experience the vibrant Djemaa el-Fna square. Take a walk through the Majorelle Garden and enjoy a day trip to the Atlas Mountains.",
+    "cost": 1800,
+    "best_time_to_visit": "March to May and September to November.",
+    "activities": "Visit Bahia Palace, explore the Atlas Mountains, and enjoy the souks of Medina."
+  },
+  {
+    "title": "Trip to Buenos Aires",
+    "content": "In Buenos Aires, you will explore the colorful neighborhood of La Boca, visit the historic Plaza de Mayo, and experience a tango show. Discover the elegant architecture and vibrant nightlife of Argentina's capital city.",
+    "cost": 2000,
+    "best_time_to_visit": "March to May and September to November.",
+    "activities": "Visit Teatro Colón, explore the Recoleta Cemetery, and enjoy a tango show."
+  },
+  {
+    "title": "Trip to Lisbon",
+    "content": "This trip to Lisbon includes a visit to the historic Belem Tower, the Jeronimos Monastery, and the Alfama district. Ride the famous yellow tram through the city's winding streets and enjoy stunning views from the hilltops.",
+    "cost": 2200,
+    "best_time_to_visit": "March to May and September to October.",
+    "activities": "Visit the Belem Tower, explore the Alfama district, and enjoy a sunset at Miradouro da Senhora do Monte."
+  },
+  {
+    "title": "Trip to Montreal",
+    "content": "Visit the historic Old Montreal district, climb Mount Royal for panoramic views, and explore the stunning Notre-Dame Basilica. You'll also experience the vibrant arts scene and indulge in delicious local cuisine.",
+    "cost": 1900,
+    "best_time_to_visit": "March to May and September to November.",
+    "activities": "Explore Old Montreal, visit Mount Royal, and take a tour of the Montreal Museum of Fine Arts."
+  },
+  {
+    "title": "Trip to Vienna",
+    "content": "This trip to Vienna takes you to Schönbrunn Palace, the Hofburg Imperial Palace, and St. Stephen’s Cathedral. Enjoy classical music at the Vienna State Opera and take a stroll through the beautiful Belvedere Gardens.",
+    "cost": 2400,
+    "best_time_to_visit": "April to May or September to October.",
+    "activities": "Visit Schönbrunn Palace, explore the Hofburg, and enjoy a classical concert."
+  },
+  {
+  "title": "Trip to Seoul",
+  "content": "Visit the Gyeongbokgung Palace, explore the bustling Myeongdong shopping district, and take in the views from Namsan Seoul Tower. You'll also experience Korean culture with a visit to Bukchon Hanok Village and a taste of local street food.",
+  "cost": 2600,
+  "best_time_to_visit": "March to May and September to November.",
+  "activities": "Explore Gyeongbokgung Palace, shop in Myeongdong, visit Namsan Tower, and enjoy Korean street food in Insadong."
+},
+{
+  "title": "Trip to Hong Kong",
+  "content": "This trip to Hong Kong includes visits to Victoria Peak, the Big Buddha on Lantau Island, and the bustling markets of Mong Kok. Enjoy stunning views of the skyline and a ride on the iconic Star Ferry.",
+  "cost": 3000,
+  "best_time_to_visit": "October to December.",
+  "activities": "Visit Victoria Peak, explore the Temple Street Night Market, and take a ferry to Lantau Island to see the Big Buddha."
+},
+{
+  "title": "Trip to Mexico City",
+  "content": "Explore Mexico City's rich history with visits to the Zócalo, the Metropolitan Cathedral, and the National Museum of Anthropology. You'll also enjoy a day trip to the ancient pyramids of Teotihuacan and vibrant local markets.",
+  "cost": 1800,
+  "best_time_to_visit": "March to May and September to November.",
+  "activities": "Visit the Frida Kahlo Museum, explore Chapultepec Park, and tour the ancient pyramids of Teotihuacan."
+},
+{
+  "title": "Trip to Cape Town",
+  "content": "This trip to Cape Town takes you to Table Mountain, Robben Island, and the Cape of Good Hope. You'll also explore the V&A Waterfront and enjoy a wine tour in the nearby Stellenbosch region.",
+  "cost": 2200,
+  "best_time_to_visit": "March to May and September to November.",
+  "activities": "Hike up Table Mountain, take a tour of Robben Island, and enjoy wine tasting in Stellenbosch."
+},
+{
+  "title": "Trip to Singapore",
+  "content": "This trip to Singapore includes visits to Marina Bay Sands, the Gardens by the Bay, and the iconic Merlion. Enjoy a walk through the vibrant streets of Chinatown and Little India, and visit Sentosa Island for some fun at the beach.",
+  "cost": 2700,
+  "best_time_to_visit": "February to April.",
+  "activities": "Visit the Gardens by the Bay, explore Chinatown, and take a cable car to Sentosa Island."
+},
+{
+  "title": "Trip to Amsterdam",
+  "content": "This trip to Amsterdam features a visit to the Anne Frank House, the Van Gogh Museum, and the beautiful canals. Take a relaxing boat ride and explore the historic district with its narrow streets and charming architecture.",
+  "cost": 2400,
+  "best_time_to_visit": "April to May and September to November.",
+  "activities": "Visit the Anne Frank House, tour the Van Gogh Museum, and take a boat ride along the Amsterdam canals."
+},
+{
+  "title": "Trip to Athens",
+  "content": "Explore ancient history in Athens by visiting the Acropolis, the Parthenon, and the Temple of Olympian Zeus. Walk through the historic Plaka neighborhood and enjoy the vibrant culture and delicious Greek cuisine.",
+  "cost": 2100,
+  "best_time_to_visit": "March to May and September to November.",
+  "activities": "Visit the Acropolis, explore the Parthenon, and stroll through the historic Plaka district."
+},
+{
+  "title": "Trip to Bangkok",
+  "content": "This trip to Bangkok includes visits to the Grand Palace, Wat Arun, and the floating markets. Experience the bustling street life, explore temples, and indulge in authentic Thai cuisine at local markets.",
+  "cost": 1600,
+  "best_time_to_visit": "November to February.",
+  "activities": "Visit the Grand Palace, explore Wat Pho, and take a boat ride through the floating markets."
+},
+{
+  "title": "Trip to Los Angeles",
+  "content": "Visit the iconic Hollywood sign, take a stroll down the Walk of Fame, and explore the luxurious neighborhoods of Beverly Hills. You'll also spend time at Santa Monica Beach and take a tour of famous movie studios.",
+  "cost": 2800,
+  "best_time_to_visit": "March to May and September to November.",
+  "activities": "Visit the Griffith Observatory, explore Santa Monica Pier, and tour Universal Studios Hollywood."
+}
+]
