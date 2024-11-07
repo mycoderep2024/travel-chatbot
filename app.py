@@ -2,12 +2,13 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from transformers import BartTokenizer, BartForConditionalGeneration
 import json
+import os
 
 app = Flask(__name__)
 CORS(app)
 
 # Load the knowledge base
-with open(r'C:\Users\aswin\Desktop\UConn\Capstone\Capstone\travel-chatbot\knowledge_base.json', 'r') as f:
+with open('knowledge_base.json', 'r') as f:
     knowledge_base = json.load(f)
 
 # Initialize the BART model (without retriever)
@@ -66,4 +67,5 @@ def chat():
     return jsonify({"response": response})
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port, debug=False)
