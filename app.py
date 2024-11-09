@@ -12,8 +12,13 @@ with open('knowledge_base.json', 'r') as f:
     knowledge_base = json.load(f)
 
 # Initialize the BART model (without retriever)
-tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
-model = BartForConditionalGeneration.from_pretrained("facebook/bart-large")
+#tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
+#model = BartForConditionalGeneration.from_pretrained("facebook/bart-large")
+
+# Initialize the BART model (with a smaller model)
+tokenizer = BartTokenizer.from_pretrained("facebook/bart-base")
+model = BartForConditionalGeneration.from_pretrained("facebook/bart-base")
+
 
 # Store the last destination the user asked about
 last_destination = {"title": None}
