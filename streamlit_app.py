@@ -5,7 +5,7 @@ import requests
 st.title("Travel Planning Chatbot")
 
 # URL for your Flask backend (make sure your Flask app is running)
-BACKEND_URL = "http://127.0.0.1:5000/chat"
+BACKEND_URL = "https://travel-chatbot-6.onrender.com/chat"
 
 # Initialize chat history
 if 'chat_history' not in st.session_state:
